@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation set furth by the Kynges Maiestie, for the abstinence from fleshe in the time of Lent, and other daies prohibited, the xiiii. daie of Februarie, in the seuenth yere of his Maiesties most prosperous reigne</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21536</idno>
+            <idno type="STC">STC 7845</idno>
+            <idno type="STC">ESTC S3866</idno>
+            <idno type="EEBO-CITATION">33151101</idno>
+            <idno type="OCLC">ocm 33151101</idno>
+            <idno type="VID">28926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28926)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation set furth by the Kynges Maiestie, for the abstinence from fleshe in the time of Lent, and other daies prohibited, the xiiii. daie of Februarie, in the seuenth yere of his Maiesties most prosperous reigne</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Graftonus typographus Regius excudebat,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Anno Domini 1552 [i.e. 1553]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains woodcut initial.</note>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: faded.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lent.</term>
+               <term>Fasts and feasts --  Church of England.</term>
+               <term>Fasts and feasts --  England.</term>
+               <term>Great Britain --  History --  Edward VI, 1547-1553.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28926:1"/>
+            <pb facs="tcp:28926:1"/>
+            <head>¶A Proclamation ſet furth by the kynges Maieſtie, for the abſtinence from fleſhe, in the time of Lent, and other daies prohibited, the .xiiii. daie of Februarie, in the ſeuenth yere of his Maieſties moſt proſperous Reigne.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in the Parliament holden at Weſtminſter the ſeconde yere of the kinges maieſties reigne, one acte, emo<g ref="char:cmbAbbrStroke">̄</g>gꝭ diuers others, was made, that no perſon, or perſones ſhould after a certeine time willingly, &amp; wittingly eate any kinde of fleſhe vpon any Fridaie, Saterdaie, any daie within the time of Lent, nor at any ſuche other daie, as was at that time, or ſhould be at a<g ref="char:EOLhyphen"/>ny time afterwardes, comonly accepted, and reputed as a fiſhe daie within this realme of Engla<g ref="char:cmbAbbrStroke">̄</g>d, vnder diuers and great penalties, as in theſaid act more largely dooeth appere. Foraſmuche as theſaied acte founded vpon ſondrie and holſome conſiderations conteined in theſame, hathe ſithen been by diuers and many feareleſſe ſubiectes, moſt diſobediently and ſtubbernely, infringed, broken and neglected, to the greate co<g ref="char:cmbAbbrStroke">̄</g>tempt of his maieſties lawes, &amp; the notable offence alſo of almightie god, who hath commaunded princes ordinances, to be obſerued, not only for feare of their indignation, but alſo for co<g ref="char:cmbAbbrStroke">̄</g>ſcience ſake. His maieſtie hauyng due con<g ref="char:EOLhyphen"/>ſideration of the great ſcarcetie of victual, &amp; ſpecially of fleſhe, that is growen within this realme, &amp; that by thabſtinence of eatyng of fleſh in times prohibited, muche fleſh is bred &amp; encreaſed, to the continuall &amp; more plentiful ſuſtenaunce of his ſubiectes, moſt ſtreightly chargeth and commaundeth, that from and after the makyng of this his highneſſe preſent Proclamation, and publiſhyng of theſame, no manner of perſone, or perſones, dwellyng, inhabityng, reſiaunt, or abidyng, within this his realme of Englande, or any other his Dominions, or territories, hauyng no licence of his highneſſe to eate fleſhe in the times prohibited by the ſaied acte, ne beyng prouided, forpriſed, or excepted by theſaied acte, dooe willingly, or wittyngly, eate any maner of fleſhe in the times of Lent, or in, or vpon any other daies prohibited by theſaied acte, contrarie to the effect, purporte, and tenour of theſame, vpon the peines, and penalties conteined in theſaied Eſtatute, and as thei wil beſides that, auoide his highneſſe indignation, and diſpleaſure.</p>
+            <p>And that no maner of perſone, or perſones, kepyng, or that ſhal kepe, any tauerne, inne, hoſtrie, alehouſes, victuallyng houſe, common, or vſual table, for any geſtes, within his ſaide Realme, or dominions, from, and after the makyng of this his highnes proclamation, vtter any fleſhe in any kinde of maner, in their houſes, or elswhere, in any the times prohibited by theſaied acte, or ſtatute, to be eaten by any perſone, not licenced or prouided for, as is aforeſaied, vpon theſelfe ſame penalties, as againſt the eaters therof, in theſaid acte is prouided.</p>
+            <p>And that no Butcher, ne other perſone, after the makyng of this proclamation (except he ſhalbe ſpecially licenced by his highneſſe, vnder the great ſeale of Englande) ſhal ſel any fleſhe, beyng dead, within his ſaied Realme, or Dominions, to be eaten in, or vpon, any the daies, or times prohibited by theſaied acte, vpon like peine, and peines, as is before laſt expreſſed, and limited.</p>
+            <p>And for the better example to be geuen by theim whiche haue any licence, his maieſties pleaſure is, that no maner of perſone, or perſones, hauyng any licence by his maieſties lettres patentes, or priuileged by theſaied eſtatute to eate fleſhe, do in any wiſe eate theſame fleſhe, vpon any daies prohibited, in any open place of his, or their houſe, or in any ſuche aſſemblie, as thei vſe on other daies accuſtomed, for eatyng of fleſhe, but that he and thei hauyng licence, vſe theſame ſecretly, and modeſtly.</p>
+            <p>And that aſ wel the Maior of London for the time beyng, as all Iuſtices of peace, &amp; all other Maiors, ſherifes, bailefes, conſtables, and hed Officers, of al and euery, citie, countie, borough, Toune, and Village, within this his realme of Engla<g ref="char:cmbAbbrStroke">̄</g>de, and all other his highneſſe dominio<g ref="char:cmbAbbrStroke">̄</g>s, and territories as thei wil auoide his highneſſe diſpleaſure, and indignation, &amp; wil further aunſwer at their peril, do from time to time after the makyng of this his highneſſe proclamation, within their rules, iuriſdictions, aucthorities, precinctes, &amp;
+<pb facs="tcp:28926:2"/>
+               <pb facs="tcp:28926:2"/> circuites, truely, and diligently, with all ſpeede from time to time, ſearche and trie out, al maner thoffen<g ref="char:EOLunhyphen"/>ces, contemptes, and inobediences aforeſaide, and for the due execution of the aforeſaied Eſtatute, and the tenour of this proclamation, do deuiſe ſome weekely ſearche, ſo as by their diligence, the Lawe maie haue ſome fruict, and profite, as it is very nedeful: &amp; vpon knowlege, and due profe therof made, that thei and e<g ref="char:EOLhyphen"/>uerie of theim furthwith commit al and euery ſuche offendour and offendours, to empriſonment, there ſafe, and ſurely to be kepte, &amp; remaine, &amp; farther to be puniſhed, accordyng vnto the penalties by degrees, contei<g ref="char:EOLhyphen"/>ned in the foreſaied act, and in caſe any be founde vpon theſaied puniſhementes, not amended, then ſuche to bee as notable and incorrigible perſones, certified to his maieſtie, or his counſail, that ſome greuous open puniſhment of ſuche, maie be example to al others.</p>
+            <p>And that al and euerie his louyng and true ſubiectes, be from time to time, aidyng, helpyng, and aſſiſt<g ref="char:EOLhyphen"/>yng to all and euerie ſuche Maior and Maiors, Iuſtices, and other officers aforeſaied, in the doyng, and executyng of theffect and purport of this his highneſſe proclamation, as thei wil aunſwere to his Maieſtie vpon their vttermoſt peril, and as thei wil auoide his highneſſe greuous indignation, and diſpleaſure. For certeinly, ſuche is the kinges determinate purpoſe, to haue this throughly executed.</p>
+            <closer>God ſaue the kyng.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>RICHARDVS GRAF<g ref="char:EOLhyphen"/>tonus, Typographus Regius excudebat. Anno Domini. 1552.</p>
+            <p>Cum Priuilegio ad Imprimen<g ref="char:EOLhyphen"/>dum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
